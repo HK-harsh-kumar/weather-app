@@ -1,8 +1,3 @@
-// const apiKey = "502510a619eb3e4c4516734c83dd9215";
-// const apiUrl =
-//   "https://api.openweathermap.org/data/2.5/weather?units=metric&q=kanpur";
-
-
 const inputBox = document.querySelector('.input-box');
 const searchBtn = document.getElementById('searchBtn');
 const weather_img = document.querySelector('.weather-img');
